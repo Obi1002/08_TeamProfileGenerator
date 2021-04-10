@@ -1,0 +1,29 @@
+{
+  "name": "08_teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "* [Acceptance Criteria](#acceptancecriteria)\r * [Installation](#installation)\r * [Project Status](#projectstatus)\r * [License](#license)\r * [Deployment](#deployment)\r * [Usage](#usage)\r * [Preview of the App](#previewApp)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obi1002/08_TeamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obi1002/08_TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Obi1002/08_TeamProfileGenerator#readme"
+}
